@@ -8,13 +8,13 @@ The assignment solutions are in CPP.
 Disclaimer: The below solutions are for reference only. Please design and implement your own algorithms to pass the course.
 
 
-## Week 1- Programming Challenges (PDF)
+## [Week 1- Programming Challenges (PDF)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignments/week1_programming_challenges.pdf)
 
 1. [Sum of Two Digits!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week1_programming_challenges/1_sum_of_two_digits.cpp)
 2. [Maximum Pairwise Product!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week1_programming_challenges/2_max_pairwise_product.cpp)
 
 
-## Week 2- Algorithmic Warm-up (PDF)
+## [Week 2- Algorithmic Warm-up (PDF)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignments/week2_algorithmic_warmup.pdf)
 
 1. [Fibonacci Number!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week2_algorithmic_warmup/1_fibonacci_number.cpp)
 1. [Last Digit of a Large Fibonacci Number!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number.cpp)
@@ -26,7 +26,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
 1. [Last Digit of the Sum of Squares of Fibonacci Numbers!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.cpp)
 
 
-## Week 3- Greedy Algorithms (PDF)
+## [Week 3- Greedy Algorithms (PDF)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignments/week3_greedy_algorithms.pdf)
 
 1. [Money Change!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week3_greedy_algorithms/1_money_change.cpp)
 3. [Maximum Value of the Loot (Fractional Knapsack)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week3_greedy_algorithms/2_maximum_value_of_the_loot.cpp)
@@ -37,7 +37,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
 8. [Maximum Salary (Largest Number)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week3_greedy_algorithms/7_maximum_salary.cpp)
 
 
-## Week 4- Divide and Conquer (PDF)
+## [Week 4- Divide and Conquer (PDF)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignments/week4_divide_and_conquer.pdf)
 
 1. [Binary Search!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week4_divide_and_conquer/1_binary_search.cpp)
 1. [Majority Element!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week4_divide_and_conquer/2_majority_element.cpp)
@@ -47,7 +47,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
 1. [Closest Points!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week4_divide_and_conquer/6_closest_points.cpp)
 
 
-## Week 5- Dynamic Programming 1 (PDF)
+## [Week 5- Dynamic Programming 1 (PDF)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignments/week5_dynamic_programming1.pdf)
 
 1. [Money Change Again!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week5_dynamic_programming1/1_money_change_again.cpp)
 1. [Primitive Calculator!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week5_dynamic_programming1/2_primitive_calculator.cpp)
@@ -56,7 +56,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
 1. [Longest Common Subsequence of Three Sequence!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences.cpp)
 
 
-## Week 6- Dynamic Programming 2 (PDF)
+## [Week 6- Dynamic Programming 2 (PDF)!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignments/week6_dynamic_programming2.pdf)
 
 1. [Maximum Amount of Gold!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week6_dynamic_programming2/1_maximum_amount_of_gold.cpp)
 1. [Partitioning Souvenirs!](https://github.com/paul-killer/Algorithmic-Toolbox-by-Coursera/blob/main/Assignment%20Solutions/week6_dynamic_programming2/2_partitioning_souvenirs.cpp)
